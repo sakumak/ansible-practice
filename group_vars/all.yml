@@ -7,4 +7,3 @@ serverspec_exec_user_name: "jenkins"
 serverspec_exec_user_group: "jenkins"
 elasticsearch_host: "kibana.devops-book.local"
 elasticsearch_port: 9200
-ansible_sudo_pass: intellilink
