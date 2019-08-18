@@ -1,5 +1,5 @@
 iface: 'ens33'
-nginx_port: 8080
+nginx_port: 80
 nginx_log_dir: "/var/log/nginx"
 nginx_documentroot: "/usr/share/nginx/html"
 serverspec_base_dir: "/usr/local/serverspec"
