@@ -1,6 +1,7 @@
 ---
 # file: webservers.yml
 - hosts: ciservers
+  remote_user: jenkins
   connection: local
   become: yes
   become_user: root
